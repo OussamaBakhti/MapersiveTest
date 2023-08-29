@@ -7,14 +7,14 @@ export const footerElementsColor = "#FCFCFD";
 export const navbarElements = [
     {title: "Home", to: "/"},
     {title: "Service", elements: [
-        {title: "Service A", to: "/service-a"},
-        {title: "Service B", to: "/service-b"},
-        {title: "Service C", to: "/service-c"}
+        {title: "Service A", to: "/a"},
+        {title: "Service B", to: "/b"},
+        {title: "Service C", to: "/c"}
     ]},
     {title: "Product", elements: [
-        {title: "Product A", to: "/product-a"},
-        {title: "Product B", to: "/product-b"},
-        {title: "Product C", to: "/product-c"}
+        {title: "Product A", to: "/a"},
+        {title: "Product B", to: "/b"},
+        {title: "Product C", to: "/c"}
     ]},
     {title: "Testimonial", to: "/testimonial"}
 ];

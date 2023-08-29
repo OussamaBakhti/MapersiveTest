@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { footerElementsColor, navbarElementsColor, primaryColor } from '../../contstants';
+import { footerElementsColor, primaryColor } from '../../contstants';
 
 export const BottomNavigation = styled.div`
 background: #021E35;

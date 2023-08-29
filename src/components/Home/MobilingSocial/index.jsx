@@ -1,7 +1,6 @@
-import { faCircleChevronRight, faChevronRight } from "@fortawesome/free-solid-svg-icons";
+import { faChevronRight } from "@fortawesome/free-solid-svg-icons";
 import { Icon } from "../../Navbar/NavbarElements.styles";
 import { Container, Text, Box, BoxContent, Title, Description, Button } from "./mobilingSocial.styles";
-import { InlineContainer } from "../../Footer/footer.styles";
 
 const MobilingSocial = () => {
     return (

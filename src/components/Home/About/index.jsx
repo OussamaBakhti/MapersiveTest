@@ -1,4 +1,3 @@
-import { Icon } from '../../Navbar/NavbarElements.styles';
 import { Title, SubTitle, Description, Box, ContentBox, Container, Content, SubContent, Text } from './about.styles';
 
 import { CarIcon, TouchScreenIcon, LocationIcon, ClockIcon } from '../../../assets';
@@ -15,22 +14,22 @@ function About() {
                 <ContentBox>
                     <Content>
                         <SubContent>
-                            <img src={CarIcon} width="48px" height="48px" />
+                            <img src={CarIcon} width="48px" height="48px" alt="logo" />
                             <Text>From business to Luxuryclass</Text>
                         </SubContent>
                         <SubContent>
-                            <img src={CarIcon} width="48px" height="48px" />
+                            <img src={LocationIcon} width="48px" height="48px" alt="logo" />
                             <Text>125 Location in Indonesia</Text>
                         </SubContent>
                     </Content>
                     <Content>
                         <SubContent>
-                            <img src={CarIcon} width="48px" height="48px" />
+                            <img src={TouchScreenIcon} width="48px" height="48px" alt="logo" />
 
                             <Text>Convenient Online Book</Text>
                         </SubContent>
                         <SubContent>
-                            <img src={CarIcon} width="48px" height="48px" />
+                            <img src={ClockIcon} width="48px" height="48px" alt="logo" />
 
                             <Text>24/7 Exclusive On the road</Text>
                         </SubContent>

@@ -8,7 +8,7 @@ const Slider = () => {
     return (
         <Steps>
             <ImagesContainer>
-                <img src={CarImage} />
+                <img src={CarImage} alt='logo' />
             </ImagesContainer>
             <Container>
                 <Icon icon={faCircleChevronLeft} style={{ color: "gray" }} />

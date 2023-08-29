@@ -12,7 +12,11 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" exact element={<Home/>} />
-        <Route path="/service-a" element={<>testt</>}></Route>
+        <Route path="/a" element={<Home/>} />
+        <Route path="/b" element={<Home/>} />
+        <Route path="/c" element={<Home/>} />
+        <Route path="/testimonial" element={<Home/>} />
+        <Route path="*" element={<>NOT FOUND</>}></Route>
       </Routes>
       <Footer />
 
