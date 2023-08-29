@@ -25,5 +25,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run deploy`
 
-This command will deploy the project into github Pages.
+This command will deploy the project into github Pages.\
 Open [https://oussamabakhti.github.io/MapersiveTest] to view it in your browser.
