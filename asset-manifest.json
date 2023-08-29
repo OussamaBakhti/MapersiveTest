@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MapersiveTest/static/css/main.073c9b0a.css",
-    "main.js": "/MapersiveTest/static/js/main.0e56d76d.js",
+    "main.js": "/MapersiveTest/static/js/main.a86f095c.js",
     "static/media/car.png": "/MapersiveTest/static/media/car.01fc5e84ef4f50f4437c.png",
     "index.html": "/MapersiveTest/index.html",
     "main.073c9b0a.css.map": "/MapersiveTest/static/css/main.073c9b0a.css.map",
-    "main.0e56d76d.js.map": "/MapersiveTest/static/js/main.0e56d76d.js.map"
+    "main.a86f095c.js.map": "/MapersiveTest/static/js/main.a86f095c.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0e56d76d.js"
+    "static/js/main.a86f095c.js"
   ]
 }
